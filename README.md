@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John!
-- 👀 I’m a full-stack developer with an interest in front-end development and creating UIs that are user-friendly, especially if it involves a creative out-of the box idea! 
+- 👀 I’m a full-stack developer with an interest in front-end development and creating UIs that are user-friendly, especially if it allows me to come up with creative out-of the box ideas! 
 - 🌱 I’m currently learning and further developing my skills in Angular and C#/.NET
 - 💞️ I’m looking to collaborate on any interesting creative projects where I am forced to think outside the box to come up with ideas where I can use my creativity to solve complex issues.
 - 📫 You can reach me by shooting me a message on [LinkedIn](https://www.linkedin.com/in/j-figueirahasbun/) :  or  by [e-mail](mailto:j.figueirahasbun@gmail.com)
